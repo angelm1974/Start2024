@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj": {}
+    "d:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj": {}
   },
   "projects": {
-    "D:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj": {
+    "d:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj",
+        "projectUniqueName": "d:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj",
         "projectName": "Start2024",
-        "projectPath": "D:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj",
+        "projectPath": "d:\\Programy\\CS_Programy\\Start2024\\Start2024.csproj",
         "packagesPath": "C:\\Users\\Mariusz\\.nuget\\packages\\",
-        "outputPath": "D:\\Programy\\CS_Programy\\Start2024\\obj\\",
+        "outputPath": "d:\\Programy\\CS_Programy\\Start2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
